@@ -1,0 +1,8 @@
+✔ Criar classe apartamento @done(21-06-26 11:39)
+✔ Criar classe torre @done(21-06-26 11:39)
+✔ Criar metodo imprimir para cada classe @done(21-06-26 11:39)
+☐ Criar metodo cadastrar para cada classe
+☐ Implemente uma fila de espera que contenha os métodos para adicionar apartamentos na fila
+☐ retirar apartamentos informando o número da vaga que este apartamento recebera
+☐ um método para imprimir a fila de espera.
+
