@@ -11,7 +11,7 @@ class Computador:
     @abstractmethod
 
     def getInformacoes(self):
-        print('\nMoelo: {} \nCor: {} \nPreco: {}'.format (self.modelo, self.cor, self.preco))
+        print('\nModelo: {} \nCor: {} \nPreco: {}'.format (self.modelo, self.cor, self.preco))
     def cadastrar(self):
         print('cadastro feito com sucesso')
 
