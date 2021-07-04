@@ -1,8 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-/AP2_Aula10
-/atividade_lista_encadeada
 /prova
-/python_cafe
 .ap2_prova_01_diego.py
 .atividade.py
 # dependencies

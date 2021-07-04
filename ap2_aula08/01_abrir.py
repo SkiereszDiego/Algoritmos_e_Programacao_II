@@ -1,5 +1,0 @@
-arquivo = open("ola.txt")
-print( arquivo.read() )
-print("----------------------")
-arquivo = open("ola.txt")
-print( arquivo.read(13) )
